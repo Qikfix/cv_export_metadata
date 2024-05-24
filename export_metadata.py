@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Application to generate the metadata when exporting data
 from Satellite/Content View Version
